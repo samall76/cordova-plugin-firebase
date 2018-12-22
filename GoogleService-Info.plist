@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>758516183670-8goj6tlcdm4mhdc48su8plpcps00k2iv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.758516183670-8goj6tlcdm4mhdc48su8plpcps00k2iv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDf6v2q6UXvV-dpFC0SmGsldnjp_LM_EfA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>758516183670</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>nl.churchbook.demo</string>
+	<key>PROJECT_ID</key>
+	<string>churchbook-notificaties-demo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>churchbook-notificaties-demo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:758516183670:ios:ffcddfc04c9b844a</string>
+	<key>DATABASE_URL</key>
+	<string>https://churchbook-notificaties-demo.firebaseio.com</string>
+</dict>
+</plist>
