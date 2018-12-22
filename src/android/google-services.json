@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "758516183670",
+    "firebase_url": "https://churchbook-notificaties-demo.firebaseio.com",
+    "project_id": "churchbook-notificaties-demo",
+    "storage_bucket": "churchbook-notificaties-demo.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:758516183670:android:ffcddfc04c9b844a",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "nl.churchbook.demo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "758516183670-psip9rfsu09f3bcdqi1ngbqvb535rhgh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyAG6wpCA2lqi_RCMd7Qjbhz7pqj7Q_HtAo"
         }
       ],
       "services": {
